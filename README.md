@@ -12,3 +12,6 @@ a react native demo (LETV乐视)
 
 # Dependency
 * [react-native-video](https://github.com/brentvatne/react-native-video)
+
+# PPT
+* [share ppt](http://www.slideshare.net/feeloc/react-native-by-letv)
