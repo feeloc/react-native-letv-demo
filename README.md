@@ -1,6 +1,6 @@
 # react-native-letv-demo
 
-a react native demo (LETV乐视) 测试
+a react native demo (LETV乐视)
 
 # screenshot
 
